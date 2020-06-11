@@ -1,1 +1,1 @@
-# 10-JS
+# 10_javascript_introduction
